@@ -32,13 +32,15 @@ public class Main {
         System.out.println("Repeated Number = " + repeated);
         System.out.println("Missing Number = " + missing);
 
+
+
+   
+    }
+} 
 /* input:
  5
  5 4 1 2 4
 Output:
  Repeated Number = 4
  Missing Number = 3
-
-   
-    }
-} 
+ */
