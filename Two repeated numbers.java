@@ -1,6 +1,6 @@
 import java.util.*;
 
-class BeingZero {
+public class Main {
 
     public static List<Integer> solve(int[] a, int n) {
         List<Integer> ans = new ArrayList<>();
